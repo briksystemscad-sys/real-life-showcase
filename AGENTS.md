@@ -8,3 +8,8 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the restaurant experience as anchored sections on the index route, matching the reference's single-page navigation.
+- Store downloaded restaurant media as Lovable asset pointers; generated logo artwork remains imported source artwork.
+- Keep business contact configuration absent until verified details are supplied; catering preparation downloads an enquiry draft rather than claiming submission.
+- Define restaurant visual styling in the global semantic design system and expose action styles through Button variants for consistent presentation.

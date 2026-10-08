@@ -9,6 +9,10 @@ const buttonVariants = cva(
   {
     variants: {
       variant: {
+        sunshine: "restaurant-button restaurant-button-sun",
+        pepper: "restaurant-button restaurant-button-pepper",
+        chalk: "restaurant-button restaurant-button-chalk",
+        menuTab: "menu-tab",
         default: "bg-primary text-primary-foreground shadow hover:bg-primary/90",
         destructive: "bg-destructive text-destructive-foreground shadow-sm hover:bg-destructive/90",
         outline:
