@@ -1,4 +1,7 @@
 # Mango & Coal recreation
+- [x] Replace the homepage background with different real cooking footage.
+- [x] Add a photo journal and useful dining questions without fabricated business claims.
+- [x] Add scroll reveals, photo transitions and smoother menu changes; verify interactions.
 - [x] Match the reference layout, typography, colours and menu interactions.
 - [x] Replace generated food imagery with real photography and a cooking background video.
 - [x] Add a generated brand profile logo, favicon and meaningful page title.

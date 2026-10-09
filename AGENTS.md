@@ -13,3 +13,4 @@
 - Store downloaded restaurant media as Lovable asset pointers; generated logo artwork remains imported source artwork.
 - Keep business contact configuration absent until verified details are supplied; catering preparation downloads an enquiry draft rather than claiming submission.
 - Define restaurant visual styling in the global semantic design system and expose action styles through Button variants for consistent presentation.
+- Keep supplementary restaurant content in a focused component and use progressive, reduced-motion-aware scroll reveals so content remains accessible without animation.
